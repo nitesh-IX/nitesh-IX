@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Nitesh Rana!
 
-<!--
-**nitesh-IX/nitesh-IX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+BCA student interested in Data Science, Data Analytics, Machine Learning, and Quantum Computing.
 
-Here are some ideas to get you started:
+### What am I currently working on?
+- Exploring Data Science & Machine Learning.
+- Building practical data analytics projects.
+- Learning Quantum Computing and Quantum Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What tools do I use?
+- **Languages:** Python, SQL
+- **Analytics:** Excel, Power BI
+- **Core Skills:** Statistics, Data Analysis, Data Visualization
+- **Exploring:** Machine Learning, Quantum Computing
+
+### How to reach me?
+- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **GitHub:** You're already here!
+
+---
+
+*Learn continuously. Build consistently. Explore beyond limits.* ⚛️
