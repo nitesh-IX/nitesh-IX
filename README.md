@@ -15,7 +15,7 @@ BCA student interested in Data Science, Data Analytics, Machine Learning, and Qu
 - **Exploring:** Machine Learning, Quantum Computing
 
 ### How to reach me?
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/niitesh)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/niitesh)
 - **GitHub:** You're already here!
 
 ---
